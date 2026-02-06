@@ -30,7 +30,7 @@ After configuring a new department we will set up a new team. Teams allow you to
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/cYzWBD2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="382" height="284" alt="image" src="https://github.com/user-attachments/assets/9ede2d06-d623-4f21-b127-e2a06aeb7e50" />
 </p>
 <p>
 Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.
