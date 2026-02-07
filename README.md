@@ -51,7 +51,14 @@ After creating some agents we will create users. Users are customers that create
 </p>
 </p>
 <p>
-SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. SLA Plans are created by going to Admin Panel->Manage->SLA Plans. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 and a one hour grace period. 
+Configure SLA
+Admin Panel -> Manage -> SLA
+</p>
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+</p>
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+</p>
+Sev-C (Grace Period: 8 hours, Business Hours) 
 </p>
 <br />
 <img <img width="322" height="232" alt="image" src="https://github.com/user-attachments/assets/8f5b4d1f-16ce-4510-8c72-c33c0fa99f3d"/>
@@ -60,8 +67,20 @@ SLAs Plans provide a length of time in which the help desk is expected to take i
 </p>
 </p>
 <p>
-Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking. 
+Configure Help Topics (For when users create a ticket)
+Admin Panel -> Manage -> Help Topics
+</p>
+Business Critical Outage
+</p>
+Personal Computer Issues
+</p>
+Equipment Request
+</p>
+Password Reset
+</p>
+Other
 </p>
 <img <img width="428" height="311" alt="image" src="https://github.com/user-attachments/assets/488bc932-e1fe-405a-a5a5-075899ea6a1d" />
 </p>
+<img width="431" height="290" alt="image" src="https://github.com/user-attachments/assets/a4dcd1bb-e46a-416f-baf8-5b717f5608cb" />
 </p>
