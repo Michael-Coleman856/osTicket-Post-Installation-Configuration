@@ -40,20 +40,24 @@ Now that we have set up a new team we will create a new setting that will allow 
 <p>
 It is now time to create Agents. Agents are the employees of the helpdesk that actually work on solving tickets. Agents are assigned primary departments and given a primary role for tickets sent to their department. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are be assigned in the Agents tab. 
 </p>
-<br />
-<img src="https://i.imgur.com/8WTOSre.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="317" height="310" alt="image" src="https://github.com/user-attachments/assets/7bacfbd0-14be-4e66-aac6-5eecf1c37747" />
 </p>
 <p>
 After creating some agents we will create users. Users are customers that create tickets when they are having issues. A user is identified with their E-mail address. To create a user follow this path Agent Panel->Users->User Directory->Add new. 
 </p>
-<br />
-<img src="https://i.imgur.com/xOprA9f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="335" height="148" alt="image" src="https://github.com/user-attachments/assets/886e14de-6ad3-4c7c-abe2-7ce3f916f663" />
+</p>
+</p>
+</p>
 </p>
 <p>
 SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. SLA Plans are created by going to Admin Panel->Manage->SLA Plans. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 and a one hour grace period. 
 </p>
 <br />
-<img src="https://i.imgur.com/LpjCaLd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="322" height="232" alt="image" src="https://github.com/user-attachments/assets/8f5b4d1f-16ce-4510-8c72-c33c0fa99f3d"/>
+</p>
+<img width="486" height="242" alt="image" src="https://github.com/user-attachments/assets/72506ede-83a2-4393-a4c1-83bf24619af2" />
+</p>
 </p>
 <p>
 Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking. 
