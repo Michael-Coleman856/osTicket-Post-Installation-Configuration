@@ -62,7 +62,6 @@ SLAs Plans provide a length of time in which the help desk is expected to take i
 <p>
 Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking. 
 </p>
-<br />
-<img src="https://i.imgur.com/kB7rts2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="428" height="311" alt="image" src="https://github.com/user-attachments/assets/488bc932-e1fe-405a-a5a5-075899ea6a1d" />
 </p>
-<p>
+</p>
